@@ -39,7 +39,7 @@ Execute the program using runserver command.
         <br>
             
                 <center>
-              <caption>SLOT TIME TABLE-YUVASHREE (24900809) </caption>
+              <caption>SLOT TIME TABLE-SRUTHI A (212224240162) </caption>
         <style>
             table,th,td{
                 text-align: center;
@@ -153,8 +153,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-<img width="1918" height="1079" alt="Screenshot 2025-09-24 184314" src="https://github.com/user-attachments/assets/23e60c13-b807-45d8-8283-a65ed024bbcf" />
-
+<img width="1109" height="615" alt="Screenshot 2025-10-08 104833" src="https://github.com/user-attachments/assets/dd8111e8-4a89-4859-bfe8-6a533f88b8e9" />
 
 
 ## RESULT
